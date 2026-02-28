@@ -150,5 +150,3 @@ This project demonstrates how data-driven analytics and machine learning can tra
 
 ⭐ If you found this project insightful, feel free to give it a star.
 
-## 📂 Project Structure
-s
